@@ -9,5 +9,8 @@ public class HelloWorld {
     // hello world 5
 
     // hello world number 6
+    public static void main(String[] args) {
+        System.out.println("HELLO WORLD");
+    }
 }
 
